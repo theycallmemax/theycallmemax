@@ -27,7 +27,7 @@
 
 - :Прошел опыт полного цикла разработки web-приложений в pet-проектах и обучении в университете.
 
-- :seedling: Навыки
+:seedling: Навыки
 - dev: python, flask pet-проекты (https://github.com/theycallmemax/Poizon_delievery, https://github.com/theycallmemax/DNSmentor)
 - db: mySQL, sqLite (все pet-проекты работают в связке с БД)
 - analytics/vizualization: power bi (спарсил данные с hh.ru по краю в разрезе специализаций провел аналитику и сделал визуализацию https://app.powerbi.com/links/8ogslkVY5j?ctid=ab3ff91d-e10f-425e-b177-3b4548adbb61&pbi_source=linkShare&bookmarkGuid=4a14da1e-3d01-411d-9b24-41d76d3b9406, python (pandas, numpy, matplotlib), excel (базовые функции, сводные таблицы, ВПР, ПРОСМОТР X)
