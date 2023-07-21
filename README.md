@@ -39,6 +39,10 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqLite"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original-wordmark.svg" title="Power-BI" **alt="Power-BI" width="40" height="40"/>
+   <img src="https://cdn2.specialist.ru/Content/Image/News/Small/powerbi-sem_sm.png" title="Power-BI" **alt="Power-BI" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original-wordmark.svg" title="Figma" **alt="Figma" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/flask-original-wordmark.svg" title="Flask" **alt="Flask" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
 </div>
   
