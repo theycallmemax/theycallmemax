@@ -28,10 +28,11 @@
 - :Прошел опыт полного цикла разработки web-приложений в pet-проектах и обучении в университете.
 
 :seedling: Навыки
-- dev: python, flask pet-проекты (https://github.com/theycallmemax/Poizon_delievery, https://github.com/theycallmemax/DNSmentor)
+- dev: python, flask pet-проекты (https://clck.ru/354eiZ, https://clck.ru/354ejV)
 - db: mySQL, sqLite (все pet-проекты работают в связке с БД)
-- analytics/vizualization: power bi (спарсил данные с hh.ru по краю в разрезе специализаций провел аналитику и сделал визуализацию https://app.powerbi.com/links/8ogslkVY5j?ctid=ab3ff91d-e10f-425e-b177-3b4548adbb61&pbi_source=linkShare&bookmarkGuid=4a14da1e-3d01-411d-9b24-41d76d3b9406, python (pandas, numpy, matplotlib), excel (базовые функции, сводные таблицы, ВПР, ПРОСМОТР X)
-- design (проектирование макетов): figma (https://www.figma.com/proto/xfW9zE8e2kMfsYoPFbN7qk/вл-макет?type=design&node-id=34-5&scaling=contain&page-id=0%3A1&starting-point-node-id=34%3A5, https://www.figma.com/proto/kfJwdQXFqJLAS4mWOarwZ1/Untitled?type=design&node-id=70-55&scaling=scale-down&page-id=0%3A1&starting-point-node-id=70%3A55, https://www.figma.com/file/QLY3LPIayFpM1RsSUTRZo3/Untitled?type=design&node-id=0%3A1&mode=design&t=9hRrouEjqMC5dGcj-1) .
+- analytics/vizualization: power bi (спарсил данные с hh.ru по краю в разрезе специализаций провел аналитику и сделал визуализацию https://clck.ru/354ekp), python (pandas, numpy, matplotlib), excel (базовые функции, сводные таблицы, ВПР, ПРОСМОТР X)
+- design (проектирование макетов): figma (https://clck.ru/354epd, https://clck.ru/354eqD, https://clck.ru/354eqT)
+- Анализ требований и документации: проводил первичную разработку документации для разработки сервиса (анализ заинтересованных сторон,требование, иср, риски https://clck.ru/354fCu).
     
 - :zap: В большинстве проектов брал на себя роль product-менеджера, бизнес-аналитика и побеждал с командами на хакатонах (Product jam от Farpost.ru, Drom.ru и vl.ru) - 1 место (сервис оказания p2p услуг для жителей г. Владивостока), ВШЭ&ВТБ хакатон по "Бизнес-информатике" в рамках форума - 1 место (приложение для предпринимателей с симуляцией обстановки и метрик и прогнозированием на основе метрик и обстановки вокруг бизнеса)
   
