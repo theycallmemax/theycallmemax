@@ -39,9 +39,10 @@
 
 - На данный момент закончил 3 курс по специальности "Бизнес-информатика".
 
-- :mailbox:Свяжитесь со мной:
-  telegram: @maxxxtheycallme
-  mail: piskaev.ms@students.dvfu.ru
+:mailbox:Свяжитесь со мной:
+- telegram: @maxxxtheycallme
+- mail: piskaev.ms@students.dvfu.ru
+
   
 ---
 ### :hammer_and_wrench: Навыки :
